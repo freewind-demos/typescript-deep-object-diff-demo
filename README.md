@@ -1,18 +1,9 @@
-TypeScript Hello World Demo
+TypeScript Deep Object Diff Demo
 ===========================
+
+找出两个object的不同之处
 
 ```
 npm install
 npm start
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-
